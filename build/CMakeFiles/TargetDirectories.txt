@@ -1,0 +1,3 @@
+/mnt/c/Users/felmd/Desktop/Projeto formado/projetos/barycentric/build/CMakeFiles/Barycentric.dir
+/mnt/c/Users/felmd/Desktop/Projeto formado/projetos/barycentric/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/felmd/Desktop/Projeto formado/projetos/barycentric/build/CMakeFiles/rebuild_cache.dir
